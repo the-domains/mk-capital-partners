@@ -1,7 +1,7 @@
 name: MK Capital Partners
 favicon: null
-layout_spectrum: 0.8530884035862982
-typography_spectrum: 0.5054921058472246
+layout_spectrum: 0.94164
+typography_spectrum: 0.642
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.8356194538064301
+  brandStrength: 0.375
   lightness: 0.37156807049177587
   saturation: 0.8726342455483973
   rhythmicContrast: 0.4820748013444245
